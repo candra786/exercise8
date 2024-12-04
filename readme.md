@@ -56,8 +56,10 @@ Task Synchronization:
 Semaphores prevent race conditions and ensure consistent resource states.
 Task Preemption:
 High-priority tasks can preempt lower-priority ones, but synchronization mechanisms like semaphores ensure orderly access to resources.
+
 Demonstration Video
 Watch the demonstration video here.
+https://drive.google.com/file/d/1XESlIPPWwuDABhqifjarNeKevgn9QPXw/view?usp=sharing
 
 References
 Book: Jim Cooling - Real-time Operating Systems Book 2: The Practice.
